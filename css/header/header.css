@@ -1,7 +1,7 @@
 
 
 .header-bg{
-    background-color: #000;
+    background-color: var(--cor-12);
 }
 
 .header{

@@ -2,4 +2,7 @@
 @import 'introducao/introducao.css';
 @import 'header/header.css';
 @import 'utlitarios/componentes.css';
+@import 'utlitarios/tipografia.css';
+@import 'utlitarios/cores.css';
+@import 'bicicletas/bicicletas.css';
 

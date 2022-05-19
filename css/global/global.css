@@ -19,9 +19,16 @@ a{
 img{
     max-width: 100%;
     display: block;
+   
 }
 
-h1{
+
+img[src$='.jpg']{
+    border-radius: 5px;
+
+}
+
+h1, h2,h3, h4{
     margin: 0px;
 }
 
