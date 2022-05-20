@@ -6,5 +6,8 @@
 @import 'utlitarios/cores.css';
 @import 'bicicletas/bicicletas.css';
 @import 'tecnologia/tecnologia.css';
-@import 'parceiros/parceiros.css'
+@import 'parceiros/parceiros.css';
+@import './depoimento/depoimento.css';
+@import './seguros/seguros.css';
+@import './footer/footer.css';
 
