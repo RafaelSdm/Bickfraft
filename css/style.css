@@ -11,5 +11,7 @@
 @import './seguros/seguros.css';
 @import './footer/footer.css';
 @import './termos/termos.css';
-@import 'bicicletas/bicicletas-home.css'
+@import 'bicicletas/bicicletas-home.css';
+@import './seguros/perguntas.css';
+@import './seguros/vantagens.css';
 
