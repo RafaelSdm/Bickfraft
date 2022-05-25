@@ -14,4 +14,7 @@
 @import 'bicicletas/bicicletas-home.css';
 @import './seguros/perguntas.css';
 @import './seguros/vantagens.css';
+@import './bicicletas/bicicletas-itens.css';
+@import './bicicletas/bicicleta.css';
+@import './bicicletas/seguro.css';
 
